@@ -1,6 +1,8 @@
 # project-universal-stationID
 This repo houses project discussions for creating a universal station ID system.
 
+*Comments at any time are welcome, but consideration of incorporation into this project, please provide input by **February 15, 2019***.
+
 ## 1. Background on the Problem This Project Addresses
 
 [OpenAQ](https://openaq.org) aggregates air quality data from disparate governmental and research sources across the world and harmonizes them into one consistent [data format](https://github.com/openaq/openaq-data-format). 
@@ -22,7 +24,7 @@ Another piece of this project is building a metadata editor and discerning what 
 We are seeking input from the community on the creation of this Station ID System. All input provided may not be able to be included in the final output of this specific project for a variety of reasons, but input from as broad a swath of the OpenAQ Community as possible is valuable to the short term of this project and in the longer term for others' benefit and the platform in the future.
 
 
-### **If you are interested in contributing comments on the Station ID system, please make an "Issue" in this repo. You can read more [here](https://github.com/openaq/project-universal-stationID/issues/1#issue-404988531) on how to do this.** 
+### **If you are interested in contributing comments on the Station ID system, please make an "Issue" in this repo by February 15, 2019. You can read more [here](https://github.com/openaq/project-universal-stationID/issues/1#issue-404988531) on how to do this.** 
 
 This will require that you have a GitHub Account. If you prefer not to use GitHub, please send your input to info@openaq.org, and we will make an issue on your behalf, including your name and affiliation, as available and unless otherwise instructed to not do so. 
 
